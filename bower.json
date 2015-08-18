@@ -1,0 +1,24 @@
+{
+  "name": "jquery-load-background-images",
+  "main": "jquery.loadBackgroundImages.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Lane/jquery.loadBackgroundImages",
+  "authors": [
+    "Lane Olson <laneolson@gmail.com>"
+  ],
+  "description": "Loads background images (and images), then fires callback functions when they've loaded.",
+  "keywords": [
+    "jquery",
+    "load",
+    "loading",
+    "images"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -4,7 +4,9 @@ A simple plugin (< 1kb) for loading the background images of the elements passed
 
 ## Usage
 
-You must include jQuery and the plugin on the page.  
+You must include jQuery and the plugin on the page.  You can download the plugin with bower:
+
+`bower install jquery-load-background-images`
 
 ### Loading background images
 
